@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cojad's github stats](https://github-readme-stats.vercel.app/api?username=Cojad&show_icons=true&theme=merko)
 
 <!--
 **Cojad/Cojad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
