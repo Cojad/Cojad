@@ -2,11 +2,10 @@
 </br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cojad&theme=radical&hide_border=true)
 
-### Profile Views
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Cojad/Cojad)
-### Top Languages
+### Profile Views   ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Cojad/Cojad)
+
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=Cojad&theme=radical&layout=compact&langs_count=6&hide_border=true)
-### Social Accounts
+
 <!--
 **Cojad/Cojad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
